@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.d45b43ff.css",
-    "main.js": "/static/js/main.1e34108f.js",
-    "static/js/317.8c0b5d39.chunk.js": "/static/js/317.8c0b5d39.chunk.js",
+    "main.css": "/static/css/main.1319c9cf.css",
+    "main.js": "/static/js/main.1dadc985.js",
+    "static/js/453.ad6eb26e.chunk.js": "/static/js/453.ad6eb26e.chunk.js",
     "static/media/Spiderman.ttf": "/static/media/Spiderman.543b16df1198355d12ce.ttf",
     "index.html": "/index.html",
-    "main.d45b43ff.css.map": "/static/css/main.d45b43ff.css.map",
-    "main.1e34108f.js.map": "/static/js/main.1e34108f.js.map",
-    "317.8c0b5d39.chunk.js.map": "/static/js/317.8c0b5d39.chunk.js.map"
+    "main.1319c9cf.css.map": "/static/css/main.1319c9cf.css.map",
+    "main.1dadc985.js.map": "/static/js/main.1dadc985.js.map",
+    "453.ad6eb26e.chunk.js.map": "/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d45b43ff.css",
-    "static/js/main.1e34108f.js"
+    "static/css/main.1319c9cf.css",
+    "static/js/main.1dadc985.js"
   ]
 }
